@@ -96,6 +96,7 @@ PKGS=(
 'milou'
 'nano'
 'neofetch'
+'nextcloud-client'
 'ntfs-3g'
 'okular'
 'openbsd-netcat'
